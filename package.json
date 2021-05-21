@@ -20,6 +20,8 @@
     "@babel/core": "^7.14.3",
     "@babel/parser": "^7.14.3",
     "@babel/preset-env": "^7.14.2",
-    "@babel/traverse": "^7.14.2"
+    "@babel/traverse": "^7.14.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
   }
 }
